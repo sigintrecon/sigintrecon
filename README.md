@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 ```
@@ -12,7 +11,7 @@
 
 **`Signals. Packets. Vulnerabilities.`**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+Training;OSINT+%7C+Network+Recon+%7C+Ethical+Hacking;Intercepting+Signals...;Mapping+Attack+Surface...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+Training;OSINT+%7C+Network+Recon+%7C+Ethical+Hacking;Learning+OWASP+Top+10...;Intercepting+Signals...;Mapping+Attack+Surface...)
 
 </div>
 
@@ -28,7 +27,7 @@ Alias    : sigintrecon
 Age      : 19
 Location : Pakistan 🇵🇰
 Role     : Cybersecurity Student | Aspiring Penetration Tester
-Focus    : Network Security | OSINT | Offensive Security
+Focus    : Network Security | OSINT | Web App Pentesting | Offensive Security
 Status   : [■■■■■■■░░░] Learning & Growing...
 ```
 
@@ -42,10 +41,11 @@ Status   : [■■■■■■■░░░] Learning & Growing...
 |------|----------|-------|
 | ![Nmap](https://img.shields.io/badge/Nmap-00FF9D?style=flat-square&logo=linux&logoColor=black) | Network Recon | ██████████░ Intermediate |
 | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | Packet Analysis | █████████░░ Intermediate |
+| ![OSINT](https://img.shields.io/badge/OSINT-00FF9D?style=flat-square&logo=googlesearch&logoColor=black) | Intelligence Gathering | ██████████░ Intermediate |
+| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | Web App Testing | ████████░░░ Learning |
+| ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white) | Web Vulnerabilities | ████████░░░ Learning |
 | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | Exploitation | ████████░░░ Learning |
 | ![MSFvenom](https://img.shields.io/badge/MSFvenom-E34F26?style=flat-square&logo=linux&logoColor=white) | Payload Crafting | ████████░░░ Learning |
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | Web App Testing | ████████░░░ Learning |
-| ![OSINT](https://img.shields.io/badge/OSINT-00FF9D?style=flat-square&logo=googlesearch&logoColor=black) | Intelligence | ██████████░ Intermediate |
 
 ### 💻 Environment
 
@@ -57,31 +57,33 @@ Status   : [■■■■■■■░░░] Learning & Growing...
 
 ---
 
+## `> ls focus_areas/`
+
+```
+drwxr-xr-x  network_security/
+drwxr-xr-x  osint_intelligence/
+drwxr-xr-x  web_app_pentesting/
+drwxr-xr-x  owasp_top10/
+drwxr-xr-x  payload_crafting/
+drwxr-xr-x  recon_methodology/
+drwxr-xr-x  ctf_challenges/
+```
+
+---
+
 ## `> cat objectives.txt`
 
 ```
 [✓] Learn networking at intermediate level
 [✓] Master Wireshark & packet analysis
 [✓] Learn OSINT techniques
+[◉] Master OWASP Top 10 vulnerabilities
 [◉] Master advanced penetration testing methodologies
 [◉] Earn eJPT / CEH certification
 [○] Build strong CTF writeup portfolio
 [○] Land first bug bounty reward
 [○] Contribute to open-source security tools
 [○] Get hired as junior pentester
-```
-
----
-
-## `> ls focus_areas/`
-
-```
-drwxr-xr-x  network_security/
-drwxr-xr-x  web_app_pentesting/
-drwxr-xr-x  osint_intelligence/
-drwxr-xr-x  payload_crafting/
-drwxr-xr-x  ctf_challenges/
-drwxr-xr-x  recon_methodology/
 ```
 
 ---
@@ -105,8 +107,8 @@ drwxr-xr-x  recon_methodology/
 ```bash
 $ nmap -sV sigintrecon
 
-PORT        STATE   SERVICE
-GitHub   →  open    github.com/sigintrecon
+PORT      STATE   SERVICE
+GitHub →  open    github.com/sigintrecon
 ```
 
 ---
