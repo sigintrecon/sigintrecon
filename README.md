@@ -144,7 +144,7 @@ Labs Completed:
  
 ![Streak](https://streak-stats.demolab.com?user=sigintrecon&theme=dark&hide_border=true&background=0a0f0a&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d)
  
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sigintrecon.png)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-sigintrecon-212C42?style=flat-square&logo=tryhackme&logoColor=white)
  
 </div>
 ---
