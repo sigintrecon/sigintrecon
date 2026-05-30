@@ -11,7 +11,7 @@
 
 **`Recon. Exploit. Report.`**
  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+Training;TryHackMe+Jr+Pentester+Path;Web+App+Hacking+%7C+SQLi+%7C+Burp+Suite;OWASP+Top+10+%7C+PortSwigger+Labs;Bug+Bounty+%7C+eJPT+Goal...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+Training;TryHackMe+Jr+Pentester+Path;Web+App+Hacking+%7C+SQLi+%7C+Burp+Suite;OWASP+Top+10+%7C+PortSwigger+Labs;eJPT+Certification+Goal...)
  
 </div>
 ---
