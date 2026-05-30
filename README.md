@@ -138,7 +138,7 @@ Labs Completed:
 ## `> cat stats.sh`
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigintrecon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff9d&icon_color=00ff9d&text_color=c8ffd4)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigintrecon&theme=chartreuse_dark)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigintrecon&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff9d&text_color=c8ffd4)
  
