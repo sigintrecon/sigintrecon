@@ -26,7 +26,7 @@ Alias    : sigintrecon
 Age      : 19
 Location : Faisalabad, Pakistan 🇵🇰
 Role     : Cybersecurity Student | Aspiring Penetration Tester
-Focus    : Web App Pentesting | Offensive Security | Bug Bounty
+Focus    : Web App Pentesting | Offensive Security
 Path     : TryHackMe Jr Penetration Tester + PortSwigger Web Academy
 Status   : [■■■░░░░░░░] Learning & Hacking Daily...
 ```
@@ -35,7 +35,7 @@ Status   : [■■■░░░░░░░] Learning & Hacking Daily...
  
 ## `> cat skills.txt`
  
-### 🛠️ Current Arsenal
+### Current Arsenal
  
 | Tool / Skill | Category | Level |
 |------|----------|-------|
@@ -47,7 +47,7 @@ Status   : [■■■░░░░░░░] Learning & Hacking Daily...
 | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | Exploitation | █████░░░░░ Beginner |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Scripting | ████░░░░░░ Beginner |
  
-### 💻 Environment
+### Environment
  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
