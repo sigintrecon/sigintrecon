@@ -10,12 +10,13 @@
 ```
 
 **`Recon. Exploit. Report.`**
+**`Bridging Defense With Offense.`**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Aspiring+Red+Team+Operator;Privilege+Escalation+%7C+Malware+Analysis;Windows+%7C+Linux+Exploitation;eJPT+%E2%86%92+OSCP+%E2%86%92+CRTO;Work+Ethically.)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sigintrecon&color=00ff9d&style=for-the-badge&label=RECON+VISITORS)
-![Badge](https://img.shields.io/badge/STATUS-ACTIVE_OPERATOR-00FF9D?style=for-the-badge&logo=target&logoColor=black)
-![Badge](https://img.shields.io/badge/ETHOS-WORK_ETHICALLY-000000?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sigintrecon&color=FF0000&style=for-the-badge&label=RECON+VISITORS&labelColor=FF0000)
+![Badge](https://img.shields.io/badge/STATUS-ACTIVE_OPERATOR-FF0000?style=for-the-badge&labelColor=1A1A1A&logo=target&logoColor=white)
+![Badge](https://img.shields.io/badge/ETHOS-WORK_ETHICALLY-FFD700?style=for-the-badge&labelColor=1A1A1A)
 
 </div>
 
